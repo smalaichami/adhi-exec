@@ -1,0 +1,44 @@
+=============== Aug 7, 2018 (IST) ===============
+13:21:00.425591 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:21:00.426855 db@open opening
+13:21:00.429651 version@stat F·[] S·0B[] Sc·[]
+13:21:00.432292 db@janitor F·2 G·0
+13:21:00.432404 db@open done T·5.514133ms
+13:21:06.572497 db@close closing
+13:21:06.572603 db@close done T·104.825µs
+=============== Aug 7, 2018 (IST) ===============
+13:26:09.073620 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:26:09.073976 version@stat F·[] S·0B[] Sc·[]
+13:26:09.073987 db@open opening
+13:26:09.074040 journal@recovery F·1
+13:26:09.074967 journal@recovery recovering @1
+13:26:09.078418 memdb@flush created L0@2 N·20 S·1KiB "Dat..ion,v19":"\xf8\x82\xeb..E.\xf8,v8"
+13:26:09.080867 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+13:26:09.084364 db@janitor F·3 G·0
+13:26:09.084408 db@open done T·10.409973ms
+13:26:19.328540 db@close closing
+13:26:19.328625 db@close done T·83.192µs
+=============== Aug 7, 2018 (IST) ===============
+13:26:22.348563 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:26:22.348679 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+13:26:22.348687 db@open opening
+13:26:22.348719 journal@recovery F·1
+13:26:22.349663 journal@recovery recovering @3
+13:26:22.350790 memdb@flush created L0@5 N·2 S·238B "Dat..ion,v22":"Las..der,v23"
+13:26:22.351961 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+13:26:22.353965 db@janitor F·4 G·0
+13:26:22.354001 db@open done T·5.306035ms
+13:43:55.906724 db@close closing
+13:43:55.907371 db@close done T·984.935µs
+=============== Aug 7, 2018 (IST) ===============
+13:44:24.596560 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:44:24.597023 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+13:44:24.597035 db@open opening
+13:44:24.597075 journal@recovery F·1
+13:44:24.598422 journal@recovery recovering @6
+13:44:24.599557 memdb@flush created L0@8 N·2 S·238B "Dat..ion,v25":"Las..der,v26"
+13:44:24.600360 version@stat F·[3] S·1KiB[1KiB] Sc·[0.75]
+13:44:24.602204 db@janitor F·5 G·0
+13:44:24.602245 db@open done T·5.189991ms
+14:58:57.452548 db@close closing
+14:58:57.452677 db@close done T·128.832µs
