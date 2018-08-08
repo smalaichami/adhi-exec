@@ -1,9 +1,0 @@
-admin.peers
-miner.start()
-miner.stop()
-eth
-eth.getHashrate()
-eth
-eth.getHashrate(function(err,res)=<{ console.log(res)});
-eth.getHashrate(function(err,res)=>{ console.log(res)});
-eth.getHashrate(function(err,res), { console.log(res)});
