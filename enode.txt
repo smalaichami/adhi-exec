@@ -1,0 +1,4 @@
+root@adhi-2vcpu-4gb-blr1-01:~/adhi-exec# sudo ./bootnode -nodekey boot.key -verbosity 9 -addr :20202
+INFO [09-04|07:33:27.657] UDP listener up                          self=enode://2ac94c2a36c16c3873c00adec1a69c27c928b6a80abcdbb6f53d21cf87a6bd61cd22f8deacabe33d92af6f0efba5a7a09c9773161ddc17659cbd39884254f435@[::]:20202
+
+
